@@ -30,7 +30,7 @@ PSVita / Switch / 3ds 掌机第三方存档云备份自制软件。
 
 ## Switch
 
-> 下载 [nro](https://github.com/save-cloud/save-cloud-nx/releases/latest/download/save-cloud.nro)
+> 下载 [nro](https://github.com/save-cloud/save-cloud-nx/releases)
 
 [![cover](https://github.com/save-cloud/.github/assets/5492542/1c7ecb2a-cfe8-460f-9eb3-16ea9ab1d9c7)](https://github.com/save-cloud/save-cloud-nx)
 
